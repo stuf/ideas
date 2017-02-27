@@ -29,6 +29,15 @@ Introduction to the world of Javascript starting off from ES5.1, moving on to ES
      * Functional style
      * Declarative programming
      * Currying
+     * Working with pure functions
+   * Async programming
+     * Callbacks
+     * Promises
+     * Streams
+   * Other stuff
+     * `partial.lenses`
+     * `static-land`
+     * Managing (side-)effects
 
 ## Real-world work
 
